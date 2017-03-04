@@ -4,11 +4,11 @@ Amazing 2024 3D like (**similar, not same idea**) Unity3D puzzle ;)
 
 ## Usage
 
-1. Clone the project.
+Clone the project.
 ```console
 $ git clone git@github.com:david-alejandro-reyes-milian/black-n-white.git
 ```
-2. Build it with Unity3D
+Build it with Unity3D
 
 ## Contributing
 
